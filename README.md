@@ -1,2 +1,9 @@
-# 3D-visual-inertial-odometry
-Implementation of EKF fusing IMU measurements with stereo images to estimate the 3D pose of an autonomous vehicle.
+# 3D-stereo-inertial-odometry
+Implementation of EKF fusing IMU measurements with stereo images to estimate the 3D pose of an autonomous vehicle. The script can be tested on any drive from the KITTI benchmark suite.
+
+
+## Requirements
+- Matlab Computer Vision Toolbox
+- SE3 Matlab Tools (http://asrl.utias.utoronto.ca/code/index.html)
+- KITTI Benchmark Suite Raw Data (http://www.cvlibs.net/datasets/kitti/raw_data.php)
+  - Synced and Rectified grayscale images, GPS/IMU Data, raw data devkit, calibration .txt files
