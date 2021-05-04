@@ -1,5 +1,5 @@
 # 3D-stereo-inertial-odometry
-Implementation of EKF fusing IMU measurements with stereo images to estimate the 3D pose of an autonomous vehicle. The script can be tested on any drive from the KITTI benchmark suite.
+Implementation of EKF fusing IMU measurements with stereo images to estimate the 3D pose of an autonomous vehicle. The script can be used on any drive from the KITTI benchmark suite. A full write-up of the implementation is attached above.
 
 
 ## Requirements
